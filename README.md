@@ -1,4 +1,7 @@
 ### Hi there 👋
+I'm currently working on a community application for the <a href="https://app.narutoccg.com">Naruto Collectible Card game</a>
+
+My development specialty is focused on React and React Native applications and I prefer to work with Node.js but I can work with several backend languages.
 
 <!--
 **abel30567/abel30567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
