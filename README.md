@@ -1,5 +1,8 @@
 ### Hi there 👋
-I'm currently working on a community application for the <a href="https://app.narutoccg.com">Naruto Collectible Card game</a>
+I'm currently working on a new trading card game called <a href="http://primaltcg.com">Primal Trading Card game</a>. 
+
+## Join the community today!
+<img src="http://primaltcg.com/static/media/banner.a13aa92e.png" style="width:100%;" />
 
 My development specialty is focused on React and React Native applications and I prefer to work with Node.js but I can work with several backend languages.
 
