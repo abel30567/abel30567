@@ -1,8 +1,9 @@
 ### Hi there 👋
-I'm currently working on a new trading card game called <a href="http://primaltcg.com">Primal Trading Card game</a>. 
+I'm currently working on a new trading card game called <a href="http://primaltcg.com">Primal Trading Card Game</a>. Where a group of pirates and dragonic hosts try to save the Arizal kingdom from a plague-crazed clergy that aims to control all the citizens in Arizal to become the clergy's puppets by controlling the kingdom's strongest beasts.
+
 
 ## Join the community today!
-<img src="http://primaltcg.com/static/media/banner.a13aa92e.png" style="width:100%;" />
+<img src="http://primaltcg.com/static/media/bannerDesk1.6ff71c45.png" style="width:100%;" />
 
 My development specialty is focused on React and React Native applications and I prefer to work with Node.js but I can work with several backend languages.
 
