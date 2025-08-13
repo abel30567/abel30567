@@ -1,23 +1,3 @@
-### Hi there 👋
-I'm currently working on a new trading card game called <a href="http://primaltcg.com">Primal Trading Card Game</a>. Where a group of pirates and dragonic hosts try to save the Arizal kingdom from a plague-crazed clergy that aims to control all the citizens in Arizal to become the clergy's puppets by controlling the kingdom's strongest beasts.
-
-
-## Join the community today!
-<img src="http://primaltcg.com/static/media/bannerDesk1.6ff71c45.png" style="width:100%;" />
-
-My development specialty is focused on React and React Native applications and I prefer to work with Node.js but I can work with several backend languages.
-
-<!--
-**abel30567/abel30567** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Next.js / React.js / Typescript / Node.js 
+- 🌱 I’m currently learning Generative AI
+- ⚡ Fun fact: I run Primal Trading Card Game https://primaltcg.com
